@@ -16,14 +16,22 @@ Bu proje, bir konaklama tesisinin rezervasyon süreçlerini ve yönetim işlemle
 ## 📸 Görseller
 
 - Giriş Ekranı
+
+  
   <img width="933" height="565" alt="Ekran görüntüsü 2026-03-27 203913" src="https://github.com/user-attachments/assets/8c354853-7c1b-4192-b9d0-b81217333a47" />
 
 - Yönetici Paneli
+
+  
   <img width="1077" height="584" alt="Ekran görüntüsü 2026-03-27 204001" src="https://github.com/user-attachments/assets/03db975c-815d-43ee-9650-f7a51500ac68" />
 
 - Müşteri Rezervasyon Ekranı
+
+  
   <img width="978" height="541" alt="Ekran görüntüsü 2026-03-27 204024" src="https://github.com/user-attachments/assets/2889202e-b16d-47f6-b607-a47ecba9ee5a" />
 - Örnek Uygulama
+
+  
   <img width="1067" height="575" alt="Ekran görüntüsü 2026-03-27 212102" src="https://github.com/user-attachments/assets/78643d43-f2ab-441d-9caa-5e67428a830b" />
   <img width="1024" height="583" alt="image" src="https://github.com/user-attachments/assets/6aef5b94-d32e-4080-be84-434c68753b1f" />
 
