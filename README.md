@@ -34,6 +34,8 @@ Bu proje, bir konaklama tesisinin rezervasyon süreçlerini ve yönetim işlemle
   
   <img width="1067" height="575" alt="Ekran görüntüsü 2026-03-27 212102" src="https://github.com/user-attachments/assets/78643d43-f2ab-441d-9caa-5e67428a830b" />
   <img width="1024" height="583" alt="image" src="https://github.com/user-attachments/assets/6aef5b94-d32e-4080-be84-434c68753b1f" />
+  <img width="1068" height="586" alt="Ekran görüntüsü 2026-03-27 212128" src="https://github.com/user-attachments/assets/5535e9b7-5d61-4e0d-afab-2dc9d975a214" />
+
 
 
 
