@@ -13,7 +13,7 @@ Bu proje, bir konaklama tesisinin rezervasyon süreçlerini ve yönetim işlemle
 - **Veri Yönetimi:** Formlar arası veri tutarlılığını sağlamak amacıyla `static` koleksiyonlar ve nesne listeleri (`List`) kullanılmıştır.
 - **Arayüz Tasarımı:** Windows Forms (WinForms) araçları ile kullanıcı dostu bir deneyim sunulmuştur.
 
-## 📸 Uygulama Görselleri
+## 📸 Görseller
 
 - Giriş Ekranı
   <img width="933" height="565" alt="Ekran görüntüsü 2026-03-27 203913" src="https://github.com/user-attachments/assets/8c354853-7c1b-4192-b9d0-b81217333a47" />
